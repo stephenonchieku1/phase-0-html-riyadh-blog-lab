@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: pink
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  background color:gradient
 }
 
 .wrapper {
@@ -26,7 +27,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: red
 }
 
 h1 {
@@ -35,13 +36,13 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.0em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'calibri', serif;
+  font-size: 2.0em;
   margin-top: .5em;
 }
 
